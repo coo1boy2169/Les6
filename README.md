@@ -2,7 +2,7 @@
 
 ## burger
 
-![] (https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-stovetop-burgers-recipe.jpg)
+![](https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-stovetop-burgers-recipe.jpg)
 
 wij gaan een lekker **gezonde** burger maken wat heb je nodig
 
@@ -25,7 +25,7 @@ wij gaan een lekker **gezonde** burger maken wat heb je nodig
 **2 el creme fraiche**
 **1 el verse bieslook gehakt**
 
-###**_instruktie_**
+### **_instruktie_**
 
 Verwarm de oven voor op 220˚C. Prik de zoete aardappel rondom even in met een vork, wikkel dan in aluminiumfolie en leg voor ongeveer 45 minuten in de oven om te roosteren.
 Bak het spek in een koekenpan krokant. Laat daarna uitlekken op keukenpapier.
